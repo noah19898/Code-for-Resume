@@ -4,9 +4,9 @@ Educational and Demographic Predictors of Earning a College Degree
 This project is designed 1) to evaluate which educational and demographic indicators measured during adolescence predict having earned a college degree by middle adulthood; and 2) to showcase my programming skills across modern statistical platforms (R, SAS, and Python) and data visualization packages.
 
 Products: 
-  R Script and Results
-  SAS Script and Results
-  Python Script and Results
+Markup : * R Script and Results
+         *   SAS Script and Results
+         *  Python Script and Results
 
 Data visualization in Excel, Tableau, R, SAS, and Python
 Data: Data were drawn from wave 1 and wave 5 of The National Longitudinal Study of Adolescent to Adult Health (AddHealth), a longitudinal study of a nationally representative sample of adolescents who were in grades 7-12 during the 1994-95 school year and followed over 5 waves, most recently in 2016-18. The sample included 4191 individuals who participated in wave 1 and wave 5 of the study and who were part of the publicly available portion of the study sample. https://addhealth.cpc.unc.edu/data/ 
