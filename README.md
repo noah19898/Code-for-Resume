@@ -27,6 +27,7 @@ Females were significantly more likely to earn a college degree than males (OR=1
 To evaluate whether gender moderates the association between race and having earned a college degree, Chi Square Tests of Independence were run with race by gender predicting college degree status. Post hoc paired comparisons used a Bonferroni adjustment of p<.001. Figure 1 presents the association between race and college degree stratified by gender. Both male and female participants who were Hispanic or Black earned a college degree at lower rates than Asian participants of both genders and White females. Black females earned a college degree at a higher rate than Black and Hispanic males. 
 
 ![Screenshot](results.png)
+
 Figure 1. The Association between Race and Earning a College Degree by Gender.
  
 Next, possible parental and educational predictors of college degree status were evaluated using the three regression methods for each race/gender subgroup individually. The small sample size available for both Asian males and females yielded unstable estimates. For the remaining race/gender groups, parental and educational indicators were not found to consistently predict college degree status across the three types of regression models. The exception were the models examining White males. For this group, logistic regression, stepwise regression, and lasso regression showed that having at least one parent that completed college and feeling close to their school during adolescence was associated with lower rates of earning a college degree.  
