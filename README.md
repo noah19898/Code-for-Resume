@@ -1,6 +1,6 @@
 # Code-for-Resume
 
-Educational and Demographic Predictors of Earning a College Degree
+# Educational and Demographic Predictors of Earning a College Degree
 This project is designed 1) to evaluate which educational and demographic indicators measured during adolescence predict having earned a college degree by middle adulthood; and 2) to showcase my programming skills across modern statistical platforms (R, SAS, and Python) and data visualization packages.
 Products: 
 R Script and Results
